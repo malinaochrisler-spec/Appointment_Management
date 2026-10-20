@@ -1,0 +1,20 @@
+# Local environment / secrets
+.env
+.env.*
+config/config.local.php
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.zip
+*.sql.gz
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test/coverage output
+/coverage/
